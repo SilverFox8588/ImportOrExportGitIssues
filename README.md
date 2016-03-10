@@ -5,6 +5,7 @@ Import or export git issues by C#.
 
 You can import or export git issues by C# console program. Only one thing you should do is setting the App.config file like below:
 
+```xml
 <applicationSettings>
         <ImportOrExportGitIssues.Properties.Settings>
             <setting name="FilePath" serializeAs="String">
@@ -33,5 +34,6 @@ You can import or export git issues by C# console program. Only one thing you sh
             </setting>
         </ImportOrExportGitIssues.Properties.Settings>
     </applicationSettings>
+```
     
     In addition, your .csv file should look like the "gitissues.csv".
