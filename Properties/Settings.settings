@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ImportOrExportGitIssues.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">d:\temp\gitissues.csv</Value>
+    </Setting>
+    <Setting Name="GitLogin" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">wanghongyin@shinetechchina.com</Value>
+    </Setting>
+    <Setting Name="GitPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">why8588</Value>
+    </Setting>
+    <Setting Name="IssueLabels" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">bug</Value>
+    </Setting>
+    <Setting Name="GitApiRootPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.github.com</Value>
+    </Setting>
+    <Setting Name="RepositoryOwner" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SilverFox8588</Value>
+    </Setting>
+    <Setting Name="repositoryName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Demo</Value>
+    </Setting>
+    <Setting Name="Operation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">import</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
